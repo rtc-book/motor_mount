@@ -4,13 +4,13 @@ This is a motor mount for the T1a target system for _An Introduction to Real-Tim
 
 ### Construction
 
-It is suggested to construct this motor mount by 3D printing the model contained in this repository, then assembling it with the parts and instructions below.
+It is suggested to construct this motor mount by 3D printing the model contained in this repository, then assembling it using the parts and instructions below.
 
 ### Parts List
 
 | Part                           | Number | Source                                    |
 | ------------------------------ | ------ | ----------------------------------------- |
-| Motor Mount                    | 1      | [mount.stl](mount.stl)                    |
+| Motor Mount                    | 1      | 3D print [mount.stl](mount.stl)           |
 | 8-32 Hex Nuts                  | 3      | McMaster Carr P/N 90480A009 or equivalent |
 | 8-32 x 3/8 Screw               | 2      | McMaster Carr P/N 92220A152 or equivalent |
 | 8-32 x 1/4 Nylon Tip Set Screw | 1      | McMaster Carr P/N 94115A190 or equivalent |
